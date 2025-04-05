@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    font-size: 50%;
+
+}
+
+p {
+    background-color: yellowgreen;
+    width: 50%;
+    font-size: 1.5em;
+}
